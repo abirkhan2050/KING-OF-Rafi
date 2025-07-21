@@ -35,16 +35,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100067540204855"
+    "100090895866311"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100067540204855"
+      "100090895866311"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "MIM 🙂",
+  "nickNameBot": "’<𝟑♡ 🙂",
   "prefix": "?",
   "sagorapi": "https://sagor-rest-api.onrender.com",
   "api": "",
